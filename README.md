@@ -1,6 +1,6 @@
 This was created during our time as a student at Code Chrysalis.
 # 🐶🐢🐱🐰 Pet Pals (Client) 🦜🐷🐭🦦
-This is the client side repository. You need to run the server side at the same time. This is [Server Repository](https://github.com/Team-Freshly-Washed-Turtles/pet-server).
+This is the client side repository. You need to run the server side at the same time. This is [Server Repository](https://github.com/eiko0705/pet-pals-server).
 
 1. [About　💁](#about-)
 2. [Features　✨](#features-)
@@ -24,10 +24,10 @@ When an owner accept offers from a carer, they can use chat functionality to tal
 #### 4. Notification
 When a carer sends a request to meet a pet, it will be notified to the owner in real time. Also, when an owner approves a carer's request, it will be notified in real time to the carer. With this feature, both will not overlook the action from the other.  
 # Live Application 🌈
-You can try the live application [here](https://stupefied-leakey-aa78c8.netlify.app/).  
+You can try the live application [here](https://61b0745cc5ecf6ab25d8a1a3--zealous-allen-2046fb.netlify.app/#/).  
 # Requirements 🙏
 To use this application, 
-* This is the client side repository. You need to run the server side at the same time. This is [Server Repository](https://github.com/Team-Freshly-Washed-Turtles/pet-server).
+* This is the client side repository. You need to run the server side at the same time. This is [Server Repository](https://github.com/eiko0705/pet-pals-server).
 * You need **Node.js**, **yarn** installed on your computer. Also, you need to use **mongodb** on your computer or on cloud.
 # Getting Started 🎬
 #### 1. Install Dependencies
